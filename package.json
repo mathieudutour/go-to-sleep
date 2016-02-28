@@ -1,0 +1,17 @@
+{
+  "name": "go-to-sleep",
+  "version": "1.0.0",
+  "description": "go to sleep in music",
+  "license": "MIT",
+  "repository": "mathieudutour/go-to-sleep",
+  "author": {
+    "name": "Mathieu Dutour",
+    "email": "mathieu@dutour.me",
+    "url": "https://github.com/mathieudutour"
+  },
+  "files": [
+    "cli.js",
+    "sleep.scpt"
+  ],
+  "bin": "cli.js"
+}
