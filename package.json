@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "go to sleep in music",
   "license": "MIT",
-  "repository": "mathieudutour/go-to-sleep",
+  "repository": "https://github.com/mathieudutour/go-to-sleep",
   "author": {
     "name": "Mathieu Dutour",
     "email": "mathieu@dutour.me",
@@ -11,10 +11,11 @@
   },
   "files": [
     "go-to-sleep.js",
-    "sleep.scpt"
+    "platforms"
   ],
   "bin": "go-to-sleep.js",
   "dependencies": {
-    "commander": "2.9.0"
+    "commander": "^2.20.0",
+    "toml": "^3.0.0"
   }
 }
